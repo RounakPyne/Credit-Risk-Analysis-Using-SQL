@@ -1,18 +1,21 @@
 # Credit-Risk-Analysis-Using-SQL
+
 Here We have a Historical of data which Comprises of columns simulating credit bureau data. 
+
 Feature Name	                            Description
-person_age	                              Age
-person_income	                            Annual Income
-person_home_ownership	                    Home ownership
-person_emp_length	                        Employment length (in years)
-loan_intent	                              Loan intent
-loan_grade	                              Loan grade
-loan_amnt	                                Loan amount
-loan_int_rate	                            Interest rate
-loan_status	                              Loan status (0 is non default 1 is default)
-loan_percent_income	                      Percent income
-cb_person_default_on_file	                Historical default
-cb_preson_cred_hist_length	              Credit history length
+
+Age
+Annual Income
+Home ownership
+Employment length (in years)
+Loan intent
+Loan grade
+Loan amount
+Interest rate
+Loan status (0 is non default 1 is default)
+Percent income
+Historical default
+Credit history length
 
 Here we found out that we have a Default 21% defaulters in the entire given data.
 

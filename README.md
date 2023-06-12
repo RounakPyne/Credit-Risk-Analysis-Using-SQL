@@ -2,7 +2,7 @@
 
 Here We have a Historical of data which Comprises of columns simulating credit bureau data. 
 
-Feature Name	                            Description
+Feature Name	                           
 
 Age
 Annual Income
